@@ -1,7 +1,7 @@
 {
-  "name": "GHOST // SHELL",
-  "short_name": "GhostShell",
-  "description": "Hacker simulator — Built by Amir Mohammad",
+  "name": "J.A.R.V.I.S",
+  "short_name": "Jarvis",
+  "description": "J.A.R.V.I.S — Built by Amir Mohammad",
   "author": "Amir Mohammad",
   "start_url": "./index.html",
   "scope": "./",
